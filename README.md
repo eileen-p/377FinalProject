@@ -14,4 +14,6 @@ After adding however many processes you want, you can run the specified scheduli
 
 I built this on CodeSandbox using React and CSS.
 
+I based my implementation of the FIFO and SJF algorithms in this project off of my Project 3 - Scheduler code from class.
+
 ## Project Video Link

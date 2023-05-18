@@ -1,4 +1,21 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+.timeline {
+  display: flex;
+  margin-top: 20px;
+  border: 1px solid #ddd;
+  height: 40px;
 }
+
+.timeline-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #61dafb;
+  color: #333;
+  font-weight: bold;
+  border-right: 1px solid #2075d6;
+}
+
+.timeline-item:last-child {
+  border-right: none;
+}
+

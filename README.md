@@ -17,3 +17,6 @@ I built this on CodeSandbox using React and CSS.
 I based my implementation of the FIFO and SJF algorithms in this project off of my Project 3 - Scheduler code from class.
 
 ## Project Video Link
+
+https://youtu.be/cnfBpfNIeR4
+
